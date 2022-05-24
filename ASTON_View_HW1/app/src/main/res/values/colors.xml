@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background_gray">#fafafa</color>
+
+    <color name="austrian_red">#ed2939</color>
+    <color name="austrian_white">#ffffff</color>
+
+    <color name="poland_red">#ff0000</color>
+    <color name="poland_white">#ffffff</color>
+
+    <color name="italy_green">#008c45</color>
+    <color name="italy_white">#f4f5f0</color>
+    <color name="italy_red">#cd212a</color>
+
+    <color name="colombia_yellow">#fcd116</color>
+    <color name="colombia_blue">#003893</color>
+    <color name="colombia_red">#ce1126</color>
+
+    <color name="madagascar_red">#f9423a</color>
+    <color name="madagascar_white">#ffffff</color>
+    <color name="madagascar_green">#00843d</color>
+
+    <color name="thailand_red">#a51931</color>
+    <color name="thailand_blue">#2d2a4a</color>
+    <color name="thailand_white">#f4f5f8</color>
+
+    <color name="denmark_red">#c7042d</color>
+    <color name="denmark_white">#ffffff</color>
+
+    <color name="switzerland_white">#ffffff</color>
+    <color name="switzerland_red">#ff0000</color>
+
+
+</resources>

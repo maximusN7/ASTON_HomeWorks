@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ASTON_View_HW1</string>
+    <string name="country_name_austria">Austria</string>
+    <string name="country_name_poland">Poland</string>
+    <string name="country_name_italy">Italy</string>
+    <string name="country_name_colombia">Colombia</string>
+    <string name="country_name_madagascar">Madagascar</string>
+    <string name="country_name_thailand">Thailand</string>
+    <string name="country_name_denmark">Denmark</string>
+    <string name="country_name_switzerland">Switzerland</string>
+</resources>
