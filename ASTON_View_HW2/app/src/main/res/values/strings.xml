@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ASTON_View_HW2</string>
+
+    <string name="editTextURL_hint">Enter URL and press enter to get Image</string>
+    <string name="imageFromURL_description">Image from URL</string>
+    <string name="error_msg">ERROR: Unable to load Image from this URL</string>
+</resources>
