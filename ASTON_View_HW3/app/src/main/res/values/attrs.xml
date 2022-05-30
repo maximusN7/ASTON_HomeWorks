@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomViewClock">
+        <attr name="second_modifier" format="integer"/>
+        <attr name="second_length" format="float"/>
+        <attr name="second_color" format="color"/>
+        <attr name="second_width" format="float"/>
+
+        <attr name="minute_modifier" format="integer"/>
+        <attr name="minute_length" format="float"/>
+        <attr name="minute_color" format="color"/>
+        <attr name="minute_width" format="float"/>
+
+        <attr name="hour_modifier" format="integer"/>
+        <attr name="hour_length" format="float"/>
+        <attr name="hour_color" format="color"/>
+        <attr name="hour_width" format="float"/>
+    </declare-styleable>
+
+</resources>
