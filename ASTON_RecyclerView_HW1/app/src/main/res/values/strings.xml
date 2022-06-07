@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ASTON_RecyclerView_HW1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="save">Save changes</string>
+    <string name="search">Search</string>
+    <string name="delete">Delete</string>
+    <string name="delete_text">Delete this contact?</string>
+
+    <string name="hint_name">Name</string>
+    <string name="hint_last_name">Last name</string>
+    <string name="hint_number">Phone number</string>
+    <string name="hint_details">Contact details</string>
+    <string name="hint_url">Avatar url</string>
+
+    <string name="content_description_avatar">Avatar image</string>
+
+</resources>
