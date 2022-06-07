@@ -77,17 +77,72 @@ open class MainActivity : AppCompatActivity(),
     }
 
 
-
     companion object {
         var contactsList = mutableListOf(
-            Contact(0, "Liara", "T'Soni", "89211105040", "Archaeologist and protean specialist", "https://masseffect-universe.com/_ph/31/677892442.jpg"),
-            Contact(1, "Commander", "Shepherd", "89213334151", "Saviour of the galaxy", "https://ixbt.online/gametech/covers/2021/05/15/D1Ot4Z4V83OAcH5gVZ4QOoTI3Tgt3oFB3Kd63NYq.jpg") ,
-            Contact(2, "Garrus", "Vakarian", "89215325431", "Rogue C-Sec operative", "https://i.pinimg.com/originals/c2/9c/58/c29c58eaff29b0301b0e671b06670e2c.png") ,
-            Contact(3, "Tali'Zorah", "nar Rayya", "89601214536", "Gifted engineer", "https://sleety.org/files/2010/03/masseffect2-2010-03-16-18-38-03-34.jpg") ,
-            Contact(4, "Kaidan", "Alenko", "89316627623", " Systems Alliance Marine", "https://masseffect-universe.com/_ph/31/327883582.jpg") ,
-            Contact(5, "Ashley", "Williams", "89992317694", " Systems Alliance Marine", "https://img3.goodfon.ru/wallpaper/nbig/5/5c/mass-effect-n7-ashley-williams.jpg") ,
-            Contact(6, "Rex", "Urdnot", "89416388285", " Krogan mercenary and bounty hunter", "https://i.pinimg.com/736x/44/d9/90/44d99085e64ddab6369b0c6e285e39f2--mass-effect--crumpets.jpg") ,
-            Contact(7, "Karin", "Chakwas", "89994127594", "Flight medic", "https://i.pinimg.com/736x/f3/50/c1/f350c19627e3d5e16259bc865e8d003c--mass-effect--videogames.jpg") ,
+            Contact(
+                0,
+                "Liara",
+                "T'Soni",
+                "89211105040",
+                "Archaeologist and protean specialist",
+                "https://masseffect-universe.com/_ph/31/677892442.jpg"
+            ),
+            Contact(
+                1,
+                "Commander",
+                "Shepherd",
+                "89213334151",
+                "Saviour of the galaxy",
+                "https://ixbt.online/gametech/covers/2021/05/15/D1Ot4Z4V83OAcH5gVZ4QOoTI3Tgt3oFB3Kd63NYq.jpg"
+            ),
+            Contact(
+                2,
+                "Garrus",
+                "Vakarian",
+                "89215325431",
+                "Rogue C-Sec operative",
+                "https://i.pinimg.com/originals/c2/9c/58/c29c58eaff29b0301b0e671b06670e2c.png"
+            ),
+            Contact(
+                3,
+                "Tali'Zorah",
+                "nar Rayya",
+                "89601214536",
+                "Gifted engineer",
+                "https://sleety.org/files/2010/03/masseffect2-2010-03-16-18-38-03-34.jpg"
+            ),
+            Contact(
+                4,
+                "Kaidan",
+                "Alenko",
+                "89316627623",
+                " Systems Alliance Marine",
+                "https://masseffect-universe.com/_ph/31/327883582.jpg"
+            ),
+            Contact(
+                5,
+                "Ashley",
+                "Williams",
+                "89992317694",
+                " Systems Alliance Marine",
+                "https://img3.goodfon.ru/wallpaper/nbig/5/5c/mass-effect-n7-ashley-williams.jpg"
+            ),
+            Contact(
+                6,
+                "Rex",
+                "Urdnot",
+                "89416388285",
+                " Krogan mercenary and bounty hunter",
+                "https://i.pinimg.com/736x/44/d9/90/44d99085e64ddab6369b0c6e285e39f2--mass-effect--crumpets.jpg"
+            ),
+            Contact(
+                7,
+                "Karin",
+                "Chakwas",
+                "89994127594",
+                "Flight medic",
+                "https://i.pinimg.com/736x/f3/50/c1/f350c19627e3d5e16259bc865e8d003c--mass-effect--videogames.jpg"
+            ),
         )
 
     }

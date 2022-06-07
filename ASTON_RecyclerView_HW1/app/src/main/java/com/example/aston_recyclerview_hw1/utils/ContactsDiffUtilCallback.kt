@@ -2,7 +2,10 @@ package com.example.aston_recyclerview_hw1.utils
 
 import androidx.recyclerview.widget.DiffUtil
 
-class ContactsDiffUtilCallback(private val oldList: List<Contact>, private val newList: MutableList<Contact>) :
+class ContactsDiffUtilCallback(
+    private val oldList: List<Contact>,
+    private val newList: MutableList<Contact>
+) :
     DiffUtil.Callback() {
     override fun getOldListSize(): Int {
         return oldList.size

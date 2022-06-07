@@ -133,7 +133,12 @@ class ContactsFragment : Fragment(R.layout.fragment_contacts), ContactsAdapter.C
     override fun onLongPressed(view: View?, number: Int, detailsList: Array<String>) {
         //Log.d("Check111", "Long pressed: ${detailsList[1]}")
         val myDialogFragment =
-            AlertDialogDeleteContact(textFromSearch, recyclerView.adapter, parentFragmentManager, detailsList)
+            AlertDialogDeleteContact(
+                textFromSearch,
+                recyclerView.adapter,
+                parentFragmentManager,
+                detailsList
+            )
         myDialogFragment.show(childFragmentManager, "DeleteDialog")
     }
 
